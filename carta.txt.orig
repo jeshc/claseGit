@@ -1,0 +1,8 @@
+Hola mundo git
+<<<<<<< HEAD
+Uno
+
+=======
+
+dos
+>>>>>>> f9c2707d1c99893942cd03be0e746b9de8f46a64
